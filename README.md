@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains an analysis of five phishing email samples collected for Task 2 at Future Interns Internship. Each email was manually reviewed to identify social engineering techniques, impersonation attempts, suspicious sender information, and indicators of compromise.
+This repository contains an analysis of five phishing email samples collected for Task 2 at Future Interns Cybersecurity Internship. Each email was manually reviewed to identify social engineering techniques, impersonation attempts, suspicious sender information, and indicators of compromise.
 
 The objective was to understand how phishing campaigns target victims through deception, urgency, trust abuse, and credential harvesting tactics.
 
